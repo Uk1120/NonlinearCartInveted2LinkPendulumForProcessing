@@ -1,4 +1,4 @@
-# CartInveted2LinkPendulum_Nonlinear
+# Nonlinear cart inveted 2 link pendulum for Processing
 
 This file is for Processing 4.0.1
 
